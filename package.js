@@ -3,6 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.add_files('i18next-1.6.3.js', ['client']);
+  api.add_files('i18next-1.6.3.js', ['client', 'server']);
+  api.export('i18n');
 });
 

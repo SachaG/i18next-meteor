@@ -3,7 +3,7 @@
   "description": "i18next repackaged for Meteor",
   "homepage": "https://github.com/ckir/i18next-meteor.git",
   "author": "Costas Kirgoussios",
-  "version": "1.6.3",
+  "version": "1.7.1",
   "git": "https://github.com/ckir/i18next-meteor.git",
   "packages": {}
 }
